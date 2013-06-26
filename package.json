@@ -1,0 +1,20 @@
+{
+  "name": "contacts-importer",
+  "version": "0.0.1",
+  "description": "Node npm package to help import contacts from email services like Gmail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vnykmshr/contacts-importer.git"
+  },
+  "author": "Vinayak Mishra",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "9af68becccc5e3093cf01cd5de81c2b5f9b2d59e",
+  "bugs": {
+    "url": "https://github.com/vnykmshr/contacts-importer/issues"
+  }
+}
